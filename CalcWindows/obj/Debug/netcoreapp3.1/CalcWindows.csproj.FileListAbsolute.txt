@@ -1,0 +1,16 @@
+C:\Users\Elith\source\repos\CalcWindows\CalcWindows\bin\Debug\netcoreapp3.1\CalcWindows.exe
+C:\Users\Elith\source\repos\CalcWindows\CalcWindows\bin\Debug\netcoreapp3.1\CalcWindows.deps.json
+C:\Users\Elith\source\repos\CalcWindows\CalcWindows\bin\Debug\netcoreapp3.1\CalcWindows.runtimeconfig.json
+C:\Users\Elith\source\repos\CalcWindows\CalcWindows\bin\Debug\netcoreapp3.1\CalcWindows.runtimeconfig.dev.json
+C:\Users\Elith\source\repos\CalcWindows\CalcWindows\bin\Debug\netcoreapp3.1\CalcWindows.dll
+C:\Users\Elith\source\repos\CalcWindows\CalcWindows\bin\Debug\netcoreapp3.1\CalcWindows.pdb
+C:\Users\Elith\source\repos\CalcWindows\CalcWindows\obj\Debug\netcoreapp3.1\CalcWindows.csproj.AssemblyReference.cache
+C:\Users\Elith\source\repos\CalcWindows\CalcWindows\obj\Debug\netcoreapp3.1\CalcWindows.Form1.resources
+C:\Users\Elith\source\repos\CalcWindows\CalcWindows\obj\Debug\netcoreapp3.1\CalcWindows.Properties.Resources.resources
+C:\Users\Elith\source\repos\CalcWindows\CalcWindows\obj\Debug\netcoreapp3.1\CalcWindows.csproj.GenerateResource.cache
+C:\Users\Elith\source\repos\CalcWindows\CalcWindows\obj\Debug\netcoreapp3.1\CalcWindows.AssemblyInfoInputs.cache
+C:\Users\Elith\source\repos\CalcWindows\CalcWindows\obj\Debug\netcoreapp3.1\CalcWindows.AssemblyInfo.cs
+C:\Users\Elith\source\repos\CalcWindows\CalcWindows\obj\Debug\netcoreapp3.1\CalcWindows.csproj.CoreCompileInputs.cache
+C:\Users\Elith\source\repos\CalcWindows\CalcWindows\obj\Debug\netcoreapp3.1\CalcWindows.dll
+C:\Users\Elith\source\repos\CalcWindows\CalcWindows\obj\Debug\netcoreapp3.1\CalcWindows.pdb
+C:\Users\Elith\source\repos\CalcWindows\CalcWindows\obj\Debug\netcoreapp3.1\CalcWindows.genruntimeconfig.cache
